@@ -8,12 +8,12 @@ const AppFilter = () =>{
                Всі співробітники
          </button>
          <button 
-            className="btn btn–outline-light"
+            className="btn btn-outline-light"
             type="button">
                На підвищення
          </button>
          <button 
-            className="btn btn–outline-light"
+            className="btn btn-outline-light"
             type="button">
                З/П більше 1000$
          </button>
